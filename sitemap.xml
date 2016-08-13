@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://baisonpump.github.io/about/index.html</loc>
+    
+    <lastmod>2016-08-13T10:46:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://baisonpump.github.io/cases2013/index.html</loc>
     
     <lastmod>2016-08-11T15:04:29.000Z</lastmod>
@@ -37,34 +44,6 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/PLUG-DRAIN/</loc>
-    
-    <lastmod>2016-08-02T13:49:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/EASYPRO/</loc>
-    
-    <lastmod>2016-08-02T13:49:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/EASYPRESS/</loc>
-    
-    <lastmod>2016-08-02T13:49:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/EASYSMALL/</loc>
-    
-    <lastmod>2016-08-02T13:49:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://baisonpump.github.io/2016/07/26/SAR-100/</loc>
     
     <lastmod>2016-08-02T13:49:46.000Z</lastmod>
@@ -86,7 +65,35 @@
   </url>
   
   <url>
+    <loc>https://baisonpump.github.io/2016/07/26/PLUG-DRAIN/</loc>
+    
+    <lastmod>2016-08-02T13:49:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/EASYPRO/</loc>
+    
+    <lastmod>2016-08-02T13:49:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/EASYSMALL/</loc>
+    
+    <lastmod>2016-08-02T13:49:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://baisonpump.github.io/2016/07/26/SAR-550/</loc>
+    
+    <lastmod>2016-08-02T13:49:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/EASYPRESS/</loc>
     
     <lastmod>2016-08-02T13:49:46.000Z</lastmod>
     
@@ -121,6 +128,20 @@
   </url>
   
   <url>
+    <loc>https://baisonpump.github.io/2016/07/26/TOP-FLOOR/</loc>
+    
+    <lastmod>2016-08-01T19:15:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/VX-ST/</loc>
+    
+    <lastmod>2016-08-01T19:15:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://baisonpump.github.io/2016/08/02/ZX-VORTEX/</loc>
     
     <lastmod>2016-08-01T19:15:12.000Z</lastmod>
@@ -135,42 +156,7 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/VX-ST/</loc>
-    
-    <lastmod>2016-08-01T19:15:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/TOP-FLOOR/</loc>
-    
-    <lastmod>2016-08-01T19:15:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://baisonpump.github.io/2016/07/26/TRITUS/</loc>
-    
-    <lastmod>2016-08-01T19:15:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/VXC-50-70/</loc>
-    
-    <lastmod>2016-08-01T19:15:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/VX-MF/</loc>
-    
-    <lastmod>2016-08-01T19:15:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/VXC-F/</loc>
     
     <lastmod>2016-08-01T19:15:10.000Z</lastmod>
     
@@ -184,7 +170,7 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/TOP-VORTEX/</loc>
+    <loc>https://baisonpump.github.io/2016/07/26/VX-MF/</loc>
     
     <lastmod>2016-08-01T19:15:10.000Z</lastmod>
     
@@ -205,6 +191,13 @@
   </url>
   
   <url>
+    <loc>https://baisonpump.github.io/2016/07/26/VXC-50-70/</loc>
+    
+    <lastmod>2016-08-01T19:15:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://baisonpump.github.io/2016/07/26/UP/</loc>
     
     <lastmod>2016-08-01T19:15:10.000Z</lastmod>
@@ -212,16 +205,16 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/RX-GM/</loc>
+    <loc>https://baisonpump.github.io/2016/07/26/VXC-F/</loc>
     
-    <lastmod>2016-08-01T19:15:04.000Z</lastmod>
+    <lastmod>2016-08-01T19:15:10.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/TOP%20MULTI/</loc>
+    <loc>https://baisonpump.github.io/2016/07/26/TOP-VORTEX/</loc>
     
-    <lastmod>2016-08-01T19:15:04.000Z</lastmod>
+    <lastmod>2016-08-01T19:15:10.000Z</lastmod>
     
   </url>
   
@@ -240,6 +233,13 @@
   </url>
   
   <url>
+    <loc>https://baisonpump.github.io/2016/07/26/TOP%20MULTI/</loc>
+    
+    <lastmod>2016-08-01T19:15:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://baisonpump.github.io/2016/07/26/TOP%20MULTI%20TECH/</loc>
     
     <lastmod>2016-08-01T19:15:04.000Z</lastmod>
@@ -247,49 +247,14 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/FLUID-SOLAR/</loc>
+    <loc>https://baisonpump.github.io/2016/07/26/RX-GM/</loc>
     
-    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/NK/</loc>
-    
-    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
+    <lastmod>2016-08-01T19:15:04.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://baisonpump.github.io/2016/07/26/MC-50-70/</loc>
-    
-    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/BC-ST/</loc>
-    
-    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/BC-MF/</loc>
-    
-    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/MC-45/</loc>
-    
-    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/DAVIS/</loc>
     
     <lastmod>2016-08-01T19:15:02.000Z</lastmod>
     
@@ -303,7 +268,49 @@
   </url>
   
   <url>
+    <loc>https://baisonpump.github.io/2016/07/26/DAVIS/</loc>
+    
+    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/FLUID-SOLAR/</loc>
+    
+    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/BC-MF/</loc>
+    
+    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/NK/</loc>
+    
+    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/BC-ST/</loc>
+    
+    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://baisonpump.github.io/2016/07/26/MC-F/</loc>
+    
+    <lastmod>2016-08-01T19:15:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/MC-45/</loc>
     
     <lastmod>2016-08-01T19:15:02.000Z</lastmod>
     
@@ -324,14 +331,7 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/4BLOCK/</loc>
-    
-    <lastmod>2016-08-01T19:14:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/4FK/</loc>
+    <loc>https://baisonpump.github.io/2016/07/26/4PS/</loc>
     
     <lastmod>2016-08-01T19:14:48.000Z</lastmod>
     
@@ -345,7 +345,14 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/4PS/</loc>
+    <loc>https://baisonpump.github.io/2016/07/26/4FK/</loc>
+    
+    <lastmod>2016-08-01T19:14:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/4BLOCK/</loc>
     
     <lastmod>2016-08-01T19:14:48.000Z</lastmod>
     
@@ -359,13 +366,6 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/EASYPUMP-EP/</loc>
-    
-    <lastmod>2016-08-01T16:14:16.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://baisonpump.github.io/2016/07/26/F-INOX/</loc>
     
     <lastmod>2016-08-01T16:14:16.000Z</lastmod>
@@ -373,28 +373,7 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/F4/</loc>
-    
-    <lastmod>2016-08-01T16:14:16.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/FG/</loc>
-    
-    <lastmod>2016-08-01T16:14:16.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/HYDROFRESH/</loc>
-    
-    <lastmod>2016-08-01T16:14:16.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/PLURIJET-90-130-200/</loc>
+    <loc>https://baisonpump.github.io/2016/07/26/EASYPUMP-EP/</loc>
     
     <lastmod>2016-08-01T16:14:16.000Z</lastmod>
     
@@ -408,23 +387,37 @@
   </url>
   
   <url>
+    <loc>https://baisonpump.github.io/2016/07/26/PLURIJET-90-130-200/</loc>
+    
+    <lastmod>2016-08-01T16:14:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/FG/</loc>
+    
+    <lastmod>2016-08-01T16:14:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/F4/</loc>
+    
+    <lastmod>2016-08-01T16:14:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/HYDROFRESH/</loc>
+    
+    <lastmod>2016-08-01T16:14:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://baisonpump.github.io/2016/07/26/F/</loc>
     
     <lastmod>2016-08-01T16:14:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/NGA/</loc>
-    
-    <lastmod>2016-08-01T16:14:08.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/JCR1/</loc>
-    
-    <lastmod>2016-08-01T16:14:08.000Z</lastmod>
     
   </url>
   
@@ -437,6 +430,20 @@
   
   <url>
     <loc>https://baisonpump.github.io/2016/07/26/PLURIJET-80-100/</loc>
+    
+    <lastmod>2016-08-01T16:14:08.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/NGA/</loc>
+    
+    <lastmod>2016-08-01T16:14:08.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/JCR1/</loc>
     
     <lastmod>2016-08-01T16:14:08.000Z</lastmod>
     
@@ -506,35 +513,7 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/CPupto11kW/</loc>
-    
-    <lastmod>2016-08-01T16:13:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/HF-High/</loc>
-    
-    <lastmod>2016-08-01T16:13:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/PK/</loc>
-    
-    <lastmod>2016-08-01T16:13:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/AL-RED/</loc>
-    
-    <lastmod>2016-08-01T16:13:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/2016/07/26/HF-Medium/</loc>
+    <loc>https://baisonpump.github.io/2016/07/26/CP025-220kW/</loc>
     
     <lastmod>2016-08-01T16:13:52.000Z</lastmod>
     
@@ -548,7 +527,28 @@
   </url>
   
   <url>
-    <loc>https://baisonpump.github.io/2016/07/26/CP025-220kW/</loc>
+    <loc>https://baisonpump.github.io/2016/07/26/HF-Medium/</loc>
+    
+    <lastmod>2016-08-01T16:13:52.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/HF-High/</loc>
+    
+    <lastmod>2016-08-01T16:13:52.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/AL-RED/</loc>
+    
+    <lastmod>2016-08-01T16:13:52.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baisonpump.github.io/2016/07/26/CPupto11kW/</loc>
     
     <lastmod>2016-08-01T16:13:52.000Z</lastmod>
     
@@ -576,6 +576,13 @@
   </url>
   
   <url>
+    <loc>https://baisonpump.github.io/2016/07/26/PK/</loc>
+    
+    <lastmod>2016-08-01T16:13:52.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://baisonpump.github.io/2016/07/26/PV/</loc>
     
     <lastmod>2016-08-01T16:13:36.000Z</lastmod>
@@ -586,13 +593,6 @@
     <loc>https://baisonpump.github.io/tags/index.html</loc>
     
     <lastmod>2016-07-26T15:31:39.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baisonpump.github.io/about/index.html</loc>
-    
-    <lastmod>2016-07-26T00:43:29.000Z</lastmod>
     
   </url>
   
